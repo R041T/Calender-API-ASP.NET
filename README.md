@@ -1,5 +1,5 @@
 ### Hi there 👋 
-This is primarily a backend project with a bonus option to build the UI, so I decided to use my favourite frontend framework, **Vuejs**. I decided to use PostgreSQL as my database with **Entity Framework** as the ORM using **LINQ** syntax.  
+For this project i decided to use my favourite frontend framework, **Vuejs** along with **Vuetify**. I decided to use PostgreSQL as my database with **Entity Framework** as the ORM using **LINQ** syntax.  
 
 
 ## Tech and Libraries Used
