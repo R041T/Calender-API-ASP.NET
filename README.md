@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Rohit Mahesh, a passionate self taught Full Stack Developer from **Chennai**, this is my submission for Trademarkia **.Net** Task 1. This is primarily a backend project with a bonus option to build the UI, so I decided to use my favourite frontend framework, **Vuejs**. Since Trademarkia uses **PostgreSQL** in pgAdmin, I decided to use that as my database with **Entity Framework** as the ORM using **LINQ** syntax. My preferred cloud provider is **AWS** and have alot of experience with it. 
+This is primarily a backend project with a bonus option to build the UI, so I decided to use my favourite frontend framework, **Vuejs**. I decided to use PostgreSQL as my database with **Entity Framework** as the ORM using **LINQ** syntax.  
 
 
 ## Tech and Libraries Used
